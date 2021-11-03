@@ -1,1 +1,1 @@
-# it-aacademy-part2
+# it-academy-part2
