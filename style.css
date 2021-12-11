@@ -107,7 +107,7 @@ header {
 }
 
 .name__container img {
-  width: 10%;
+  width: 100px;
   margin-top: 15px;
 }
 
@@ -237,6 +237,7 @@ blockquote p:last-of-type {
 .text textarea {
   height: 100px;
   width: 100%;
+  resize: none;
 }
 
 .contact__bottom {
